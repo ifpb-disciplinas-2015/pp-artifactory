@@ -1,0 +1,10 @@
+package ifpb.ads.pp;
+
+/**
+ * @author job
+ */
+public class Principal {
+    public static void main(String[] args) {
+        System.out.println("Olá");
+    }
+}
